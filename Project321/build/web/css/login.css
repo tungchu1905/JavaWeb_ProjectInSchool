@@ -1,0 +1,40 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 26, 2021, 10:52:42 PM
+    Author     : chutr
+*/
+.loginform{
+    margin: 0 auto;
+    width: 80%;
+    height: 400px;
+}
+.loginleft{
+    width: 49%;
+    height: 100%;
+    border: 1px solid #3399FF;
+    border-radius: 10px;
+    background-color: #3399FF;
+    
+    display: inline-block;
+}
+.loginright{
+    width: 50%;
+    height: 100%;
+    border:1px solid #3399FF;
+    background-color: #FF99CC;
+    border-radius: 10px;
+    float: right;
+}
+
+.divinput{
+    width: 80%;
+}
+.inputlogin{
+    width: 80%;
+    height: 60px;
+    margin: 10px;
+}

@@ -1,0 +1,14 @@
+SMAP
+pdetail_jsp.java
+JSP
+*S JSP
+*F
++ 0 pdetail.jsp
+pdetail.jsp
++ 1 header.jsp
+header.jsp
+*L
+5,12:49
+5#1,35:61
+16#0,21:95
+*E
